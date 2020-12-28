@@ -20,6 +20,6 @@ La totalidad de los contenidos en la Jupyter Notebook (es decir, tanto el texto 
 
 Aunque no es absolutamente imprescindible, **se recomienda abrir el Manual de Uso en la página 9 y tenerlo presente mientras se va leyendo la Notebook**.
 
-Si se deseara no sólo leer, sino también efectuar búsquedas en el dataset, o bien cualquier otro tipo de experimentación, está disponible para ello el siguiente [enlace de Binder](https://mybinder.org/v2/gh/palaciodaniel/data_cleaning_estudio_discapacidad_2018/main?filepath=proyecto_data_cleaning_estudio_discapacidad_2018.ipynb).
+La Notebook puede ser fácilmente accedida por medio del [siguiente enlace](https://nbviewer.jupyter.org/github/palaciodaniel/data_cleaning_estudio_discapacidad_2018/blob/main/proyecto_data_cleaning_estudio_discapacidad_2018.ipynb). Si se deseara no sólo leer, sino también efectuar búsquedas en el dataset, o bien cualquier otro tipo de experimentación, está disponible para ello el siguiente [enlace de Binder](https://mybinder.org/v2/gh/palaciodaniel/data_cleaning_estudio_discapacidad_2018/main?filepath=proyecto_data_cleaning_estudio_discapacidad_2018.ipynb).
 
 La autoría de la imagen es de *Elevate* - *Unsplash.com* (https://unsplash.com/photos/vofmJUVScDE)
