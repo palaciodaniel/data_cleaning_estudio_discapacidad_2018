@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palaciodaniel/data_cleaning_estudio_discapacidad_2018/main?filepath=proyecto_data_cleaning_estudio_discapacidad_2018.ipynb)
+
 # Data Cleaning - Estudio de Discapacidad 2018
 
 <p align="center"> 
@@ -14,8 +16,10 @@ Los materiales utilizados pueden visualizarse/descargarse de estos respectivos e
 
 - [Manual de Uso (formato PDF)](https://www.indec.gob.ar/ftp/cuadros/menusuperior/enpd/estudio_discapacidad_manual_base_datos_usuario.pdf)
 
-Aunque no es absolutamente imprescindible, **se recomienda abrir el Manual de Uso en la página 9 y tenerlo presente mientras se va leyendo la Notebook**.
-
 La totalidad de los contenidos en la Jupyter Notebook (es decir, tanto el texto como el código) fueron escritos desde cero por **Daniel Palacio**. Los mismos fueron desarrollados con propósitos meramente demostrativos, para poder exhibir mis habilidades al día de la fecha con Python y su librería Pandas. Al igual que con cualquier otro material, se recomienda revisar exhaustivamente los pasos realizados antes de utilizar esta Notebook como base para fines ulteriores.
 
-La imagen pertenece a *Elevate* - *Unsplash.com* (https://unsplash.com/photos/vofmJUVScDE)
+Aunque no es absolutamente imprescindible, **se recomienda abrir el Manual de Uso en la página 9 y tenerlo presente mientras se va leyendo la Notebook**.
+
+Si se deseara no sólo leer, sino también efectuar búsquedas en el dataset, o bien cualquier otro tipo de experimentación, está disponible para ello el siguiente [enlace de Binder](https://mybinder.org/v2/gh/palaciodaniel/data_cleaning_estudio_discapacidad_2018/main?filepath=proyecto_data_cleaning_estudio_discapacidad_2018.ipynb).
+
+La autoría de la imagen es de *Elevate* - *Unsplash.com* (https://unsplash.com/photos/vofmJUVScDE)
