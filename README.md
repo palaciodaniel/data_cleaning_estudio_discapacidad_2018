@@ -10,8 +10,9 @@ La sección específica del estudio puede consultarse en el [siguiente enlace](h
 
 Los materiales utilizados pueden visualizarse/descargarse de estos respectivos enlaces:
 
-[Base de Datos (formato CSV)](https://www.indec.gob.ar/ftp/cuadros/menusuperior/enpd/base_estudio_discapacidad_2018.zip)
-[Manual de Uso (formato PDF)](https://www.indec.gob.ar/ftp/cuadros/menusuperior/enpd/estudio_discapacidad_manual_base_datos_usuario.pdf)
+- [Base de Datos (formato CSV)](https://www.indec.gob.ar/ftp/cuadros/menusuperior/enpd/base_estudio_discapacidad_2018.zip)
+
+- [Manual de Uso (formato PDF)](https://www.indec.gob.ar/ftp/cuadros/menusuperior/enpd/estudio_discapacidad_manual_base_datos_usuario.pdf)
 
 Aunque no es absolutamente imprescindible, **se recomienda abrir el Manual de Uso en la página 9 y tenerlo presente mientras se va leyendo la Notebook**.
 
